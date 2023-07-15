@@ -1,0 +1,23 @@
+.users {
+  margin-right: 20px;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+
+.title {
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 15px;
+}
+
+.image {
+  max-width: 400px;
+  border-radius: 20px;
+  object-fit: cover;
+
+  @media (max-width: 768px) {
+    max-width: 100%;
+  }
+}

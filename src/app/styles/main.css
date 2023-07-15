@@ -1,0 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import 'config/setup.css';
+@import 'config/variables.css';
+@import 'config/fonts.css';
+
+body {
+  font-family: var(--font-family), sans-serif;
+  font-weight: var(--body-font-weight);
+  font-size: var(--body-font-size);
+  line-height: var(--body-line-height);
+}

@@ -1,0 +1,11 @@
+{
+  "root": true,
+  "extends": [
+    "eslint:recommended",
+    "plugin:prettier/recommended",
+    "plugin:@typescript-eslint/recommended",
+
+    "plugin:cypress/recommended"
+  ],
+  "ignorePatterns": ["!**/*"]
+}

@@ -1,0 +1,1 @@
+export { validateEmail } from './email'

@@ -1,0 +1,12 @@
+.wrapper {
+  padding: 20px 0;
+  min-height: 100vh;
+  background: #312e2e;
+  color: #fff;
+}
+
+.title {
+  font-size: 30px;
+  line-height: 36px;
+  margin-bottom: 30px;
+}
